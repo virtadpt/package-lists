@@ -1,0 +1,34 @@
+
+# PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+a52dec aalib acpi acpid alsaplayer alsa-tools alsa-utils antiword apr
+artwiz-fonts aspell audacious audiofile babl bc bin86 bleachbit bluefish boost
+bsd-games calibre catdoc ccrtp cdparanoia cdrkit cmake commoncpp2 cpupower
+cups cups-pdf cvs dialog dnsutils dosbox dosfstools dvdrip dvd+rw-tools
+easytag eclipse enca epdfview farstream firefox flashplugin font-bh-ttf
+font-bitstream-speedo font-mathematica freedroid galculator gamin gegl
+gftp gimp git gkrellm glib gnome-alsamixer gperf gpodder graphite grip
+grub-bios gsynaptics gtk gtkpod gtkspell gvim handbrake hdparm hexedit
+hplip hyphen i7z ipcalc irssi jack jansson jshon keepassx keychain
+laptop-mode-tools ldns lesstif lftp libavc1394 libbluray libbsd libcaca
+libdvbpsi libebml libedit libftdi libgdiplus libidn libiec61883 libirman
+libkate libmatroska libmicrohttpd libotr libpurple librsync libsidplay
+libstdc++5 libvisual libvncserver libxvmc libzrtpcpp linux-headers lirc lsdvd
+lynx macchanger mcomix mencoder mesa-demos miniupnpc mlocate mono mplayer
+mtdev mtools mumble nasm net-tools networkmanager network-manager-applet
+networkmanager-dispatcher-openntpd networkmanager-openvpn networkmanager-pptp
+networkmanager-vpnc nmap nodejs ntp obconf obmenu openssh openvpn p7zip pidgin
+pidgin-otr pkgstats polipo portaudio postgresql profont pstotext pychecker
+pylint pyqt python python2-beautifulsoup4 python2-chardet python2-configglue
+python2-pip python2-pychm python-babel qt3 qtfm rdiff-backup recoll rfkill
+rpmextract sdparm seamonkey sharutils skype smplayer socat sqlitebrowser sudo
+syslinux tcpdump thunderbird tk tor truecrypt ttf-bitstream-vera ttf-cheapskate
+ttf-droid ttf-liberation ttf-linux-libertine ttf-ubuntu-font-family
+unetbootin unrar unrtf unzip vice virtualbox virtualbox-additions vpnc whois
+wireless_tools wmname xf86-video-nouveau xorg-fonts-type1 xpdf xscreensaver
+xterm zenity
+
+# AUR PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+backpac bbswitch bumblebee clementine-git eclipse-pydev gensig gqview jdk
+jre nvidia-utils-bumblebee packer pycrypto python2-xapian turbojpeg virtualgl
