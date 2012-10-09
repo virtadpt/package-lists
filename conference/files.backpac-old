@@ -1,0 +1,7 @@
+
+/etc/NetworkManager/dispatcher.d/10-openntpd 755 root root
+/etc/default/grub 644 root root
+/etc/rc.conf 644 root root
+/etc/rc.local 755 root root
+/etc/xdg/xfce4-power-manager.desktop
+/etc/mkinitcpio.conf
