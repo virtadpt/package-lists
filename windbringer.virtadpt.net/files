@@ -6,3 +6,4 @@
 /etc/default/grub
 /boot/grub/grub.cfg
 /etc/makepkg.conf
+/etc/sudoers
