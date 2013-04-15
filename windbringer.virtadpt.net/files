@@ -1,0 +1,8 @@
+/etc/pacman.conf
+/etc/mkinitcpio.conf
+/etc/bumblebee/bumblebee.conf
+/etc/conf.d/lm_sensors
+/etc/default/cpupower
+/etc/default/grub
+/boot/grub/grub.cfg
+/etc/makepkg.conf
