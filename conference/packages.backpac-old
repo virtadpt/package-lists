@@ -1,0 +1,23 @@
+
+# PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+acpid alsa-tools alsa-utils alsaplayer firefox gkrellm gnome-alsamixer
+grub-bios gvim mlocate network-manager-applet networkmanager
+networkmanager-dispatcher-openntpd networkmanager-openvpn openssh p7zip qtfm
+sudo unrar unzip xpdf
+
+# AUR PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+backpac lxmed obkey packer
+
+# PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+obconf obmenu openbox-themes
+
+# PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+bleachbit
+
+# PACKAGES added by backpac on 2012-10-03
+# ------------------------------------------------------------------------------
+galculator keepassx lynx socat tor truecrypt wireless_tools

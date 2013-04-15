@@ -1,0 +1,15 @@
+
+# PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+aide apcupsd bind boost ca-certificates cups cups-pdf dash db dcron dhcp dialog
+dnsutils dvd+rw-tools eject ffmpeg ghostscript git gnu-netcat gsfonts hplip
+irssi lftp libpcap libusb-compat linux-docs linux-headers logwatch lsof lynx
+lzo2 miniupnpc mkinitcpio mlocate mtr ncftp ncurses nethogs net-tools nmap
+ntfs-3g ntp openjdk6 openssh openssl p7zip pam pcre polipo postfix procmail
+rdiff-backup rkhunter rsync rtorrent screen sdparm sharutils sudo tcpdump
+tor unrar unzip uudeview whois zip
+
+# AUR PACKAGES added by backpac on 2012-09-02
+# ------------------------------------------------------------------------------
+backpac denyhosts gen-init-cpio grub irssi-otr libusb packer pdfcrack procps
+tcp_wrappers tin-unstable torsocks udev yydecode
