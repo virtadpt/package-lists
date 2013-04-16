@@ -6,6 +6,7 @@
 /etc/default/grub 644 root root
 /etc/makepkg.conf 644 root root
 /etc/mkinitcpio.conf 644 root root
+/etc/modprobe.d/blacklist.conf 644 root root
 /etc/modules-load.d/loop.conf 644 root root
 /etc/pacman.conf 644 root root
 /etc/polipo/config 644 root root
