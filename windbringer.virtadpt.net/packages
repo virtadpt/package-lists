@@ -90,3 +90,7 @@ bbswitch-dkms-git enigmail-bin gensig gpodder3 python2-dialog scapy
 # AUR PACKAGES REMOVED by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
 # bbswitch-dkms-gpodder3 clementine-gensig dkms-bbswitch-enigmail-bin networkmanager-networkmanager-pptp networkmanager-nmap python2-scapy
+
+# PACKAGES added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+skype
