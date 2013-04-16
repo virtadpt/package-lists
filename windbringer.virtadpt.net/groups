@@ -6,3 +6,7 @@ base libreoffice lxde xapian xorg xorg-apps xorg-drivers xorg-fonts
 # GROUPS REMOVED by backpac on 2013-04-15
 # ------------------------------------------------------------------------------
 # base-devel
+
+# GROUPS added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+base-devel

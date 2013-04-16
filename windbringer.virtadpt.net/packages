@@ -1,58 +1,58 @@
 
 # PACKAGES added by backpac on 2012-09-02
 # ------------------------------------------------------------------------------
-a52dec aalib acpi acpid alsaplayer alsa-tools alsa-utils antiword apr
-artwiz-fonts aspell audacious audiofile babl bc bin86 bleachbit bluefish boost
-bsd-games calibre catdoc ccrtp cdparanoia cdrkit cmake commoncpp2 cpupower
-cups cups-pdf cvs dialog dnsutils dosbox dosfstools dvdrip dvd+rw-tools
-easytag enca epdfview farstream firefox flashplugin font-bh-ttf
+a52dec aalib acpi acpid alsaplayer alsa-utils antiword 
+artwiz-fonts audacious audiofile babl bc bin86 bleachbit bluefish boost
+bsd-games calibre catdoc ccrtp cdrkit cmake commoncpp2 
+cups cups-pdf cvs dnsutils dosbox dosfstools dvdrip dvd+rw-tools
+easytag epdfview farstream flashplugin font-bh-ttf
 font-bitstream-speedo font-mathematica freedroid galculator gamin gegl
-gftp gimp git gkrellm glib gnome-alsamixer gperf gpodder graphite grip
+gftp gimp gkrellm glib gnome-alsamixer gperf grip
 grub-bios gsynaptics gtk gtkpod gtkspell gvim handbrake hdparm hexedit
-hplip hyphen i7z ipcalc irssi jack jansson jshon keepassx keychain
-laptop-mode-tools ldns lesstif lftp libavc1394 libbluray libbsd libcaca
-libdvbpsi libebml libedit libftdi libgdiplus libidn libiec61883 libirman
+hplip i7z ipcalc irssi jack keepassx keychain
+laptop-mode-tools ldns lesstif lftp libavc1394 libcaca
+libdvbpsi libebml libedit libftdi libgdiplus libiec61883 libirman
 libkate libmatroska libmicrohttpd libotr libpurple librsync libsidplay
-libstdc++5 libvisual libvncserver libxvmc libzrtpcpp linux-headers lirc lsdvd
+libstdc++5 libvncserver libzrtpcpp linux-headers lirc lsdvd
 lynx macchanger mcomix mencoder mesa-demos miniupnpc mlocate mono mplayer
-mtdev mtools mumble nasm net-tools networkmanager network-manager-applet
-networkmanager-dispatcher-openntpd networkmanager-openvpn networkmanager-pptp
-networkmanager-vpnc nmap nodejs ntp obconf obmenu openssh openvpn p7zip pidgin
+mtools mumble nasm net-tools network-manager-applet
+
+nodejs obconf obmenu openssh p7zip pidgin
 pidgin-otr pkgstats polipo portaudio postgresql profont pstotext pychecker
-pylint pyqt python python2-beautifulsoup4 python2-chardet python2-configglue
+pylint pyqt python2-beautifulsoup4 python2-chardet python2-configglue
 python2-pip python2-pychm qt3 qtfm rdiff-backup rfkill
-rpmextract sdparm seamonkey sharutils skype smplayer socat sqlitebrowser sudo
+rpmextract sdparm seamonkey sharutils smplayer socat sqlitebrowser 
 syslinux tcpdump thunderbird tk tor truecrypt ttf-bitstream-vera ttf-cheapskate
 ttf-droid ttf-liberation ttf-linux-libertine ttf-ubuntu-font-family
-unetbootin unrar unrtf unzip vice virtualbox vpnc whois
+unetbootin unrar unrtf unzip vice virtualbox whois
 wireless_tools wmname xorg-fonts-type1 xpdf xscreensaver
 xterm zenity
 
 # AUR PACKAGES added by backpac on 2012-09-02
 # ------------------------------------------------------------------------------
-backpac bumblebee clementine-git gensig gqview jdk
-nvidia-utils-bumblebee packer python2-xapian turbojpeg virtualgl
+backpac bumblebee gqview 
+packer 
 
 # PACKAGES added by backpac on 2013-04-15
 # ------------------------------------------------------------------------------
 apache arch-firefox-search botan cadaver ccid couchdb cppcheck dia dnsmasq
-dsniff erlang-nox fdupes freerdp gparted ipython2 libpng12 lrzsz lua51
+dsniff fdupes freerdp gparted ipython2 libpng12 lrzsz 
 minicom mktorrent mysql networkmanager-dispatcher-ntpd nrg2iso ntfs-3g
 pcsc-tools perl-image-exiftool perl-timedate php-apache pidgin-encryption
 powertop procmail python2-babel python2-crypto python2-gnupginterface
 python2-pdfrw python2-pygame qemu qrencode recordmydesktop rsync scrot
 squashfs-tools syslog-ng sysstat tigervnc transmission-gtk udiskie units
-usb_modeswitch virtualbox-guest-iso wget wpa_supplicant wvdial wxpython
+usb_modeswitch virtualbox-guest-iso wvdial wxpython
 xf86-input-acecad xf86-input-aiptek xf86-video-apm xf86-video-chips
 xf86-video-i740 xf86-video-rendition xf86-video-s3 xf86-video-s3virge
 xf86-video-sisusb xf86-video-tseng zd1211-firmware
 
 # AUR PACKAGES added by backpac on 2013-04-15
 # ------------------------------------------------------------------------------
-389-console anarchism chirp corewar-pmars deb2targz debootstrap
-dkms-bbswitch-git enigmail-bin flrec fossil golly google-talkplugin
-hachoir-core hachoir-parser jitsi jss kiwix-bin libgles libjpeg6 mat ntfsprogs
-nvidia-bumblebee pybonjour python2-dialog scapy sidplay2-alsa sidplay2-libs
+anarchism 
+
+
+pybonjour sidplay2-alsa 
 torchat
 
 # PACKAGES REMOVED by backpac on 2013-04-15
@@ -62,3 +62,31 @@ torchat
 # AUR PACKAGES REMOVED by backpac on 2013-04-15
 # ------------------------------------------------------------------------------
 # eclipse-pydev jre pycrypto python-babel virtualbox-additions
+
+# PACKAGES added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+lib32-nvidia-utils modemmanager nvidia vlc
+
+# AUR PACKAGES added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+
+
+# PACKAGES REMOVED by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+# apr aspell cdparanoia cpupower dialog enca erlang-nox firefox git graphite hyphen jansson jshon libbluray libbsd libidn libvisual libxvmc lua51 mtdev networkmanager networkmanager-dispatcher-openntpd ntp openvpn python python2-xapian skype sudo turbojpeg virtualgl vpnc wget wpa_supplicant
+
+# AUR PACKAGES REMOVED by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+# 389-console alsa-tools chirp clementine-git corewar-pmars deb2targz debootstrap dkms-bbswitch-git flrec fossil golly google-talkplugin gpodder hachoir-core hachoir-parser jdk jitsi jss kiwix-bin libgles libjpeg6 mat ntfsprogs nvidia-bumblebee nvidia-utils-bumblebee sidplay2-libs
+
+# PACKAGES added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+networkmanager-openvpn networkmanager-pptp networkmanager-vpnc nmap
+
+# AUR PACKAGES added by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+bbswitch-dkms-git enigmail-bin gensig gpodder3 python2-dialog scapy
+
+# AUR PACKAGES REMOVED by backpac on 2013-04-16
+# ------------------------------------------------------------------------------
+# bbswitch-dkms-gpodder3 clementine-gensig dkms-bbswitch-enigmail-bin networkmanager-networkmanager-pptp networkmanager-nmap python2-scapy
