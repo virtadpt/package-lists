@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------
 a52dec aalib acpi acpid alsaplayer alsa-utils antiword 
 artwiz-fonts audacious audiofile babl bc bin86 bleachbit bluefish boost
-bsd-games calibre catdoc ccrtp cdrkit cmake commoncpp2 
+bsd-games calibre catdoc ccrtp cmake commoncpp2 
 cups cups-pdf cvs dnsutils dosbox dosfstools dvdrip dvd+rw-tools
 easytag epdfview farstream flashplugin font-bh-ttf
 font-bitstream-speedo font-mathematica freedroid galculator gamin gegl
@@ -85,7 +85,7 @@ networkmanager-openvpn networkmanager-pptp networkmanager-vpnc nmap
 
 # AUR PACKAGES added by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
-bbswitch-dkms-git enigmail-bin gensig gpodder3 python2-dialog scapy
+bbswitch-dkms-git enigmail-bin gpodder3 python2-dialog scapy
 
 # AUR PACKAGES REMOVED by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
@@ -106,3 +106,19 @@ foomatic-db-nonfree
 # PACKAGES added by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
 libreoffice-en-US
+
+# PACKAGES added by backpac on 2013-04-18
+# ------------------------------------------------------------------------------
+cdrtools hwinfo subversion
+
+# AUR PACKAGES added by backpac on 2013-04-18
+# ------------------------------------------------------------------------------
+pcalc
+
+# PACKAGES REMOVED by backpac on 2013-04-18
+# ------------------------------------------------------------------------------
+# cdrkit
+
+# AUR PACKAGES REMOVED by backpac on 2013-04-18
+# ------------------------------------------------------------------------------
+# gensig
