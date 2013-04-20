@@ -12,4 +12,5 @@
 /etc/pacman.conf 644 root root
 /etc/polipo/config 644 root root
 /etc/sudoers 440 root root
+/etc/sysctl.conf 644 root root
 /etc/systemd/logind.conf 644 root root
