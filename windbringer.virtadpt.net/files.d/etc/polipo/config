@@ -150,3 +150,5 @@ dnsQueryIPv6 = no
 # Vary header (this is not a good idea):
 
 # mindlesslyCacheVary = true
+
+proxyPort = 8118
