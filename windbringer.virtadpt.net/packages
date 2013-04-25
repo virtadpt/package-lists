@@ -41,7 +41,7 @@ minicom mktorrent mysql networkmanager-dispatcher-ntpd nrg2iso ntfs-3g
 pcsc-tools perl-image-exiftool perl-timedate php-apache pidgin-encryption
 powertop procmail python2-babel python2-crypto python2-gnupginterface
 python2-pdfrw python2-pygame qemu qrencode recordmydesktop rsync scrot
-squashfs-tools syslog-ng sysstat tigervnc transmission-gtk udiskie units
+squashfs-tools syslog-ng tigervnc transmission-gtk udiskie units
 usb_modeswitch virtualbox-guest-iso wvdial wxpython
 xf86-input-acecad xf86-input-aiptek xf86-video-apm xf86-video-chips
 xf86-video-i740 xf86-video-rendition xf86-video-s3 xf86-video-s3virge
@@ -130,3 +130,15 @@ gvfs-smb qtemu
 # AUR PACKAGES added by backpac on 2013-04-23
 # ------------------------------------------------------------------------------
 jss
+
+# AUR PACKAGES added by backpac on 2013-04-23
+# ------------------------------------------------------------------------------
+389-console google-talkplugin
+
+# AUR PACKAGES added by backpac on 2013-04-25
+# ------------------------------------------------------------------------------
+chirp-daily
+
+# PACKAGES REMOVED by backpac on 2013-04-25
+# ------------------------------------------------------------------------------
+# sysstat
