@@ -4,6 +4,7 @@
 /etc/conf.d/lm_sensors 644 root root
 /etc/default/cpupower 644 root root
 /etc/default/grub 644 root root
+/etc/laptop-mode/conf.d/cpufreq.conf 644 root root
 /etc/makepkg.conf 644 root root
 /etc/mkinitcpio.conf 644 root root
 /etc/modprobe.d/blacklist.conf 644 root root
