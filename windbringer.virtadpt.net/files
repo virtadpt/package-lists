@@ -8,6 +8,7 @@
 /etc/makepkg.conf 644 root root
 /etc/mkinitcpio.conf 644 root root
 /etc/modprobe.d/audio_power_save.conf 644 root root
+/etc/modprobe.d/bbswitch.conf 644 root root
 /etc/modprobe.d/blacklist.conf 644 root root
 /etc/modules-load.d/loop.conf 644 root root
 /etc/modules-load.d/virtualbox.conf 644 root root
