@@ -14,6 +14,7 @@
 /etc/modules-load.d/virtualbox.conf 644 root root
 /etc/pacman.conf 644 root root
 /etc/polipo/config 644 root root
+/etc/profile.d/gpg-agent.sh 755 root root
 /etc/sudoers 440 root root
 /etc/sysctl.conf 644 root root
 /etc/systemd/logind.conf 644 root root
