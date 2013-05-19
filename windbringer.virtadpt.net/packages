@@ -35,7 +35,7 @@ packer
 
 # PACKAGES added by backpac on 2013-04-15
 # ------------------------------------------------------------------------------
-apache arch-firefox-search botan cadaver ccid couchdb cppcheck dia dnsmasq
+apache arch-firefox-search botan cadaver ccid cppcheck dia dnsmasq
 dsniff fdupes freerdp gparted ipython2 libpng12 lrzsz 
 minicom mktorrent mysql networkmanager-dispatcher-ntpd nrg2iso ntfs-3g
 pcsc-tools perl-image-exiftool perl-timedate php-apache pidgin-encryption
@@ -162,3 +162,7 @@ jabberbot
 # PACKAGES REMOVED by backpac on 2013-05-17
 # ------------------------------------------------------------------------------
 # qtemu
+
+# PACKAGES REMOVED by backpac on 2013-05-19
+# ------------------------------------------------------------------------------
+# couchdb
