@@ -19,7 +19,7 @@ mtools mumble nasm net-tools network-manager-applet
 
 nodejs obconf obmenu openssh p7zip pidgin
 pidgin-otr pkgstats polipo portaudio postgresql profont pstotext pychecker
-pylint pyqt python2-beautifulsoup4 python2-chardet python2-configglue
+pyqt python2-beautifulsoup4 python2-chardet python2-configglue
 python2-pip python2-pychm qt3 qtfm rdiff-backup rfkill
 rpmextract sdparm seamonkey sharutils smplayer socat sqlitebrowser 
 syslinux tcpdump thunderbird tk tor truecrypt ttf-bitstream-vera ttf-cheapskate
@@ -85,7 +85,7 @@ networkmanager-openvpn networkmanager-pptp networkmanager-vpnc nmap
 
 # AUR PACKAGES added by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
-bbswitch-dkms-git enigmail-bin gpodder3 python2-dialog scapy
+enigmail-bin gpodder3 python2-dialog scapy
 
 # AUR PACKAGES REMOVED by backpac on 2013-04-16
 # ------------------------------------------------------------------------------
@@ -166,3 +166,16 @@ jabberbot
 # PACKAGES REMOVED by backpac on 2013-05-19
 # ------------------------------------------------------------------------------
 # couchdb
+
+# PACKAGES added by backpac on 2013-05-30
+# ------------------------------------------------------------------------------
+bbswitch libgit2 python2-flask python2-protobuf python2-pygit2 python2-
+python2-xapian tomboy wxcam
+
+# AUR PACKAGES added by backpac on 2013-05-30
+# ------------------------------------------------------------------------------
+fldigi ikiwiki python2-watchdog-git soundmodem
+
+# AUR PACKAGES REMOVED by backpac on 2013-05-30
+# ------------------------------------------------------------------------------
+# bbswitch-dkms-git pylint
