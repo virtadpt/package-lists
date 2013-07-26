@@ -182,7 +182,7 @@ fldigi ikiwiki python2-watchdog-git soundmodem
 
 # PACKAGES added by backpac on 2013-06-13
 # ------------------------------------------------------------------------------
-geda-gaf kicad python2-pylint python2-virtualenv
+kicad python2-pylint python2-virtualenv
 
 # AUR PACKAGES added by backpac on 2013-06-13
 # ------------------------------------------------------------------------------
@@ -201,5 +201,21 @@ ax25-apps ax25-tools deb2targz
 dnstracer
 
 # AUR PACKAGES REMOVED by backpac on 2013-06-17
+# ------------------------------------------------------------------------------
+# python2-
+
+# PACKAGES added by backpac on 2013-07-25
+# ------------------------------------------------------------------------------
+netpbm python2-webpy
+
+# AUR PACKAGES added by backpac on 2013-07-25
+# ------------------------------------------------------------------------------
+amsynth-git dieharder ent gtorrentviewer leap-motion-sdk mat retroshare-svn
+
+# PACKAGES REMOVED by backpac on 2013-07-25
+# ------------------------------------------------------------------------------
+# geda-gaf
+
+# AUR PACKAGES REMOVED by backpac on 2013-07-25
 # ------------------------------------------------------------------------------
 # python2-
